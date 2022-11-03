@@ -1,0 +1,30 @@
+body {
+    background-color:black;
+}
+hr {
+   border-style: dashed none none;
+   height: 0px;
+   width: 100%;
+   border-width: 5px;
+}
+image{
+    width: 150;
+    height: 150;
+}
+table{
+    border-width: 3px;
+    border-style: solid;
+}
+h1{
+ color:blueviolet;
+}
+img:hover{
+ background-color:goldenrod;
+}
+table:hover{
+ background-color: crimson ;
+}
+/***************class selectors***************/
+.circular{
+    border-radius: 200%;
+}
